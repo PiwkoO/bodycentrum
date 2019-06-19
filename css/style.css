@@ -80,7 +80,7 @@ html {
 }
 
 .logo h1 {
-   font-size: 5rem;
+   font-size: 4rem;
    font-family: 'Dancing Script', cursive;
    color: var(--mainColor);
    text-align: center;
@@ -142,7 +142,7 @@ html {
    display: block;
    padding: 15px;
    color: #fff;
-   font-size: 4rem;
+   font-size: 3rem;
    text-transform: uppercase;
    text-decoration: none;
 }
@@ -452,7 +452,7 @@ html {
    .offers p.desc,
    .gallery p.desc {
       padding: 50px;
-      font-size: 4rem;
+      font-size: 3rem;
    }
 
    /*   Nawigacja */
